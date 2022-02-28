@@ -1,0 +1,603 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ansvver of the Assembly of Divines by authority of Parliament now sitting at Westminster. Unto the reasons given in to this Assembly by the Dissenting Brethren, of their not bringing in a model of their way. And since published in print, under the title of A copy of a remonstrance. Which answer was humbly presented to the Right Honorable the House of Peers assembled in Parliament. Ordered by the Lords in Parliament assembled, that this answer be forthwith printed and published. Joh. Brown, cler. Parliamentorum.</title>
+            <author>Westminster Assembly</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96223</idno>
+            <idno type="STC">Wing W1423</idno>
+            <idno type="STC">Thomason E506_11</idno>
+            <idno type="STC">ESTC R204058</idno>
+            <idno type="EEBO-CITATION">99863768</idno>
+            <idno type="PROQUEST">99863768</idno>
+            <idno type="VID">115982</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115982)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 80:E506[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ansvver of the Assembly of Divines by authority of Parliament now sitting at Westminster. Unto the reasons given in to this Assembly by the Dissenting Brethren, of their not bringing in a model of their way. And since published in print, under the title of A copy of a remonstrance. Which answer was humbly presented to the Right Honorable the House of Peers assembled in Parliament. Ordered by the Lords in Parliament assembled, that this answer be forthwith printed and published. Joh. Brown, cler. Parliamentorum.</title>
+                  <author>Westminster Assembly</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Ralph Smith, and are to be sold at the signe of the Bible, neer the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Copy of a remonstrance lately delivered in to the Assembly.</note>
+                  <note>With a preliminary order to print.</note>
+                  <note>Annotation on Thomason copy: "Feb: 26th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church of England --  History, (17th century) --  Early works to 1800.</term>
+               <term>Westminster Assembly (1643-1652). --  Dissenting Brethren. --  Copy of a remonstrance lately delivered in to the Assembly.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115982:1" rendition="simple:additions"/>
+            <p>THE ANSVVER Of the ASSEMBLY of DIVINES By Authority of PARLIAMENT Now ſitting at WESTMINSTER. Unto the <hi>Reaſons</hi> given in to this ASSEMBLY BY THE Diſſenting Brethren, Of their not bringing in a MODEL of their WAY. And ſince Publiſhed in Print, under the Title of <hi>A Copy of a Remonſtrance.</hi> Which <hi>Anſwer</hi> was humbly preſented to the Right Honor<g ref="char:EOLhyphen"/>able the Houſe of PEERS Aſſembled in <hi>Parliament.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="order">
+               <body>
+                  <p>
+                     <hi>ORdered by the</hi> Lords <hi>in Parliament aſſembled, That this</hi> Anſwer <hi>be forthwith Printed and Publiſhed.</hi>
+                  </p>
+                  <closer>
+                     <signed>Joh. Brown, Cler. Parliamentorum.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Ralph Smith,</hi> and are to be ſold at the Signe of the Bible, neer the <hi>Royal Exchange.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115982:2"/>
+            <pb n="3" facs="tcp:115982:2"/>
+            <head>The ANSWER of the Aſſembly of DIVINES, by Authority of PARLIAMENT now fitting at <hi>Weſtminſter,</hi> unto the REASONS given in to this Aſſembly by the Diſſenting <hi>Brethren,</hi> of their not bringing in a MODEL of their Way.</head>
+            <p>VVHereas the Brethren who Diſſent from this <hi>Aſſembly</hi> in ſome particulars of Church Government, did upon <hi>Octob.</hi> 22. 1645. inſtead of the long deſired, and much expected Model of Church-Government, to be com<g ref="char:EOLhyphen"/>municated to us by them, give in to the Aſſembly a Paper containing ſome ſeeming <hi>Reaſons,</hi> why they declined the bringing in of ſuch a Model at this time; which ſince hath been divulged in Print under the Title of <hi>A Copy of a Remonſtrance, &amp;c.</hi> We have been put upon this neceſſary Vindicating of our Selves from thoſe unjuſt Miſ-repre<g ref="char:EOLhyphen"/>ſentations and Miſ conſtructions of our Proceedings, under which we muſt otherwiſe undeſervedly have ſuffered, if this <hi>Remonſtrance</hi> ſhould altogether go unanſwered.</p>
+            <p>The Deſigne of the Brethrens Paper is, to beget an Opinion of their <hi>Willingneſſe and Forwardneſſe, to make known what ever they hold in Church-Government;</hi> and to give an account <hi>what the Reaſons are, Why they have not given in a Model of Church-Government according to their Judgements.</hi>
+            </p>
+            <p n="1">I. <q>Of their Willingneſſe to make known what ever they hold concerning Church-Government, even ſince the beginning of the <hi>Diſcuſſions,</hi> they ſay they have had pub<g ref="char:EOLhyphen"/>like Teſtimony in this Aſſembly, and have given manifeſt Proofs and Evidences of it.</q>
+            </p>
+            <p>This publike Teſtimony, we ſuppoſe, is but the Teſtimony of ſome few ſingle per<g ref="char:EOLhyphen"/>ſons in the Aſſembly; and not (as ſome might be induced to beleeve) the Teſtimony of the Aſſembly, ſuch we are ſure they have not had: And, we doubt whether even ſuch ſingle Teſtimony have been given, as that they were ſo forward, and willing to make known <hi>what ever</hi> they held in Church-Government. Now if the Teſtimony of ſingle perſons, becauſe given in a publike way, may be called a publike Teſtimony, we doubt not, but we can produce more publike Teſtimonies of their Vnwillingneſſe, (not onely from the beginning of this Aſſembly, but before) to declare what they hold in Church-Government, then they can of the contrary.</p>
+            <p>Our Reverend Brother Maſter <hi>Dury</hi> in a Letter from the <hi>Hague, March</hi> 7. 1643. <hi>Stilo veteri,</hi> now publiſhed in Print, gives them this Teſtimony, that <hi>He had required from them, but never could obtain, to know the true point of difference betwixt them, and the other Reformed Churches.</hi>
+            </p>
+            <p>Beſides, the Brethren know that there are many Reverend Miniſters of the City of <hi>London,</hi> and ſome Members of this Aſſembly, that muſt give them this Teſtimony, That whereas there was, long before the ſitting of this Aſſembly, an agreement between ſome of theſe Brethren, and ſundry Miniſters of the City, That the Brethren ſhould
+<pb n="4" facs="tcp:115982:3"/> give in to them a Narrative of their way of Church-Government, that agreement was never yet performed, but on the contrary the Paper that was the Record thereof, was upon ſome pretence privately withdrawn by one of them out of the hands in which it was depoſited, and was never to this day reſtored though often demanded, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Narrative exhibited though often deſired.</p>
+            <p>Nay, and themſelves have given a publike Teſtimony of no great Willingneſſe and Forwardneſſe to make known what ever they hold concerning Church Government, even ſince the beginning of the diſcuſſions in this Aſſembly, in that <hi>Apologetical Narration</hi> by them publiſhed: Which, how far it is from making known what ever they hold concerning Church-Government, we leave to themſelves to judge.</p>
+            <p>And when upon occaſion of this <hi>Apologetical Narration,</hi> Maſter <hi>Apollonius</hi> being ap<g ref="char:EOLhyphen"/>pointed by the Claſſis of <hi>Walacbria,</hi> to ſet down the judgement of thoſe Churches, con<g ref="char:EOLhyphen"/>cerning the Controverſies now agitated in <hi>England:</hi> Sent to them an expreſſe Letter, deſiring them to inform him what their Opinion was in thoſe Points, that he might not miſtake th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m; he could not yet obtain it from them, as himſelf hath complained, and themſelves well know.</p>
+            <p n="2">II. <q>Yet as a proof of their pretended Willingneſs, they tell us of their con<g ref="char:EOLhyphen"/>ſtant, free and open expreſſing of themſelves, upon all occaſions, and in all queſtions propounded to the debate<g ref="char:punc">▪</g>
+               </q>
+            </p>
+            <p>Theſe are but words; we could as eaſily, and might more truely ſay, they have been inconſtant, obſcure, reſerved in expreſſing themſelves, as they can ſay they <hi>have</hi> been conſtant, free and open. And whereas they ſay, <hi>They have done thou in all queſtions, and upon all occaſions,</hi> we deſire them to ask their own hearts, Whether they did ever clearly, and openly expreſſe themſelves, what they unanimouſly hold in the great queſtion of <hi>Gathering Churches,</hi> or in the queſtion of the <hi>Power of the People,</hi> or in that of the qualification of <hi>Church Members,</hi> or Whether they did ever clearly and directly endeavour to prove that way of Church-Government, which they practiſe, to be the onely way <hi>Jure divino?</hi> Though they know they have been often urged to it, upon ſeveral occaſions, and fair opportunities put into their hands; as in their Debates and Reaſons againſt Presbyterial Government, and againſt Appeals, beſides many others: And par<g ref="char:EOLhyphen"/>ticularly <hi>March</hi> 21, 1644. it was earneſtly preſsed upon them by many in the Aſsembly, That <hi>they would bring in what they thought farther needful, for the Reformation of our Congregations, and what they would deſire in reference to their own.</hi> And the queſtion was formed up in thoſe terms, and a Vote ready to be paſsed upon it, had not they themſelves then (who had been ſilent in it ſo long as any objections were made againſt it by others) ſo vehemently oppoſed it, when we ſaw the Aſsembly ready to order it; which we conceive they would not have done, had they been ſo willing as they would now he thought, freely and openly to expreſse themſelves upon all occaſions, and to make known whatever they hold in Church-Government.</p>
+            <p n="3">III. <q>As a further evidence of this their Willingneſse, they further inſtance their offers to give an open accompt at any time, in whatever ſhould be asked by any Brother.</q>
+            </p>
+            <p>We confeſse theſe Expreſſions are large and high: <hi>An open account: At any time: In what ever: By any Brother.</hi> We beleeve our Brethren upon ſecond Thoughts muſt ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te ſomewhat of theſe large Expreſſions; and that at leaſt ſome of them never made ſuch in offer. But if there were ſuch offers, and thoſe really intended by all of them; How is it then? That at this time when <hi>All</hi> the Brethren of this Aſsembly, have deſired a full Accompt of their way, and had expected it above ſix Moneths, they plainly ref<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe to bring it in.</p>
+            <p n="4">IV. <q>As for their proffering to ſtate queſtions to their own ſence<g ref="char:punc">▪</g> We <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it hath been uſual with them many times, after ſundry dayes ſpent in the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a
+<pb n="5" facs="tcp:115982:3"/> Propoſition, and when it was now ripe for a queſtion, to deſire to have it otherwiſe ſtated: Which the Aſſembly hath not ſeldom granted, and themſelves have acknow<g ref="char:EOLhyphen"/>ledged it a favour. But when the queſtion hath been ſtated by them, it hath been far more perplexed and obſcured then it was before; as in that particular of Ordination which they inſtance in, and complain their Papers were laid aſide: Of which we give this faithful and juſt accompt.</q>
+            </p>
+            <p>The Committee that was appointed to prepare Propoſitions about Ordination for the debate of the Aſſembly, did, for their more clear and orderly progreſſe therein, caſt the whole under theſe five queſtions. 1. What Ordination is? 2. Whether Ordination be neceſſary to be continued in the Church? 3. Who are to Ordain? 4. What perſons are to be Ordained, and how qualified? 5. The manner how ſuch perſons are to be Ordained.</p>
+            <p>In Anſwer to the firſt, this Propoſition was brought in, <hi>That Ordination is the ſo<g ref="char:EOLhyphen"/>lemn ſetting apart of a perſon to ſome publike Church Office:</hi> Which, after the debate of a whole Seſſion, was voted true <hi>Nemine contradicente.</hi> After four dayes ſpent in the de<g ref="char:EOLhyphen"/>bate of ſome of the other particulars, and ſome progreſſe made in the third queſtion, our Brethren finding themſelves unſatisfied in that Propoſition, concerning the ſub<g ref="char:EOLhyphen"/>ſtance of Ordination (already reſolved <hi>Nemine contradicente)</hi> as in their apprehenſion not ſufficiently expreſſing the ſubſtance of it; The Aſſembly thereupon ordered on the Wedneſday, <hi>That Maſter</hi> Goodwin, <hi>Maſter Ny, Maſter</hi> Burroughes, <hi>Maſter</hi> Bridge, <hi>Maſter</hi> Simpſon, <hi>and Maſter</hi> Carter, <hi>Jun. Be a Committee to conſider further of the ſub<g ref="char:EOLhyphen"/>ſtance of the Act of Ordination, and to report to this Aſſembly on Friday morning.</hi> And ſo willing have our Brethren been to make known what ever they held, That this Order was not accepted without reluctancy by ſome of them, whereupon it was put to the queſtion, and reſolved by a Vote.</p>
+            <p>On Friday morning one of them brings in a report prefacing with <hi>thanks to the Aſſembly, that they would give leave to a diſſenting party</hi> (ſo they firſt called themſelves before the Aſſembly called them ſo, and before they had formally entred any diſſent,) <hi>to ſet down their own ſence which they did in two Propoſitions, as followeth.</hi>
+            </p>
+            <p n="1">1. <hi>Ordination for the ſubſtance of it, is the ſolemnization of an Officers outward call; in which, the Elders of the Church in the Name of Chriſt, and for the Church, do by a viſible ſigne deſigne the perſon, and ratifie his Separation to his Office with Prayer for, and a bleſsing upon his gifts in the miniſtration thereof.</hi>
+            </p>
+            <p n="2">2. <hi>That the power which gives the formal being to an Officer, ſhould be derived by Chriſts Inſtitution from the power which is in Elders, as ſuch, in the Act of Ordination, as yet we finde not any where held forth in the Word.</hi>
+            </p>
+            <p>Theſe two Propoſitions were taken into conſideration, and the Aſſembly finding nothing in theſe Propoſitions concerning the <hi>ſubſtance of the Act of Ordination,</hi> more then what was in the firſt Propoſition, which the Aſſembly had already voted; but rather a complication of ſundry queſtions, ſome of which, the Aſſembly had already reſolved, and others, the report which they had made progreſſe in, would more clearly and diſtinctly lead them to, and which, the Aſſembly could not debate all at once; and beſides, conſidering that many phraſes in theſe Propoſitions, were general and am<g ref="char:EOLhyphen"/>biguous, as namely, the term of <hi>Solemnization, Of Elders</hi> (whether onely Preaching Elders, or others alſo, which was a queſtion diſtinctly drawn up <hi>in terminis</hi> in the Aſſembly) for <hi>the Church</hi> (though the Report interpreted that to be <hi>vice Eccleſiae,</hi> yet was it not ſo expreſſed in the words of the Paper) <hi>a viſible ſigns deſigne the perſon:</hi> As alſo, that the ſecond Propoſition was not <hi>de veritate rei,</hi> but <hi>de veritate intellectus,</hi> the Language of it being, <hi>as yet we finde not any where held forth in the Word:</hi> Vpon theſe, and the like Conſiderations, their Paper was laid aſide; and whether the Aſſembly had
+<pb n="6" facs="tcp:115982:4"/> not juſt reaſon ſo to do, let them judge who can diſtinguiſh between perſpicuity and obſcurity, between method and confuſion.</p>
+            <p>However, the Brethren haue little reaſon to complain of laying aſide their Paper, who know that the Aſſembly have often laid by Papers received from the h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds of other Committees, as well as theirs, yea, and ſeveral Papers received from the Reverend Commiſſioners of the Church of <hi>Scotland.</hi> And one of them, though tranſmitted by the Committee of Lords and Commons, and Divines appointed to treat with them, not a week before the laying aſide of their Paper; when one of theſe Brethren argued earneſtly for the laying it aſide, and that <hi>it ſhould be leſt for the Comm<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es to make uſe of, as then did of other Writings, and Books in Print.</hi>
+            </p>
+            <p n="5">V. <q>And as little reaſon have they for their next complaint about Papers, <hi>which</hi> (they ſay) <hi>we of our ſelves brought in, giving the ſtate of the queſtion about that extra<g ref="char:EOLhyphen"/>ordinary way of Ordination.</hi>
+               </q> The occaſion of which Papers was this, The Aſſembly not being likely ſuddenly to perfect the whole <hi>Body</hi> of Government, that it might be ſpeedily eſtabliſhed in all the parts of it; and there being at preſent a great want of ſome way of Ordination for the preſent ſupply of Miniſters in the Army, the Navy, and many parts of the Kingdom; The Right Honourable Houſe of Peers ſent an Or<g ref="char:EOLhyphen"/>der to the Aſſembly to conſider of expediting Ordination, becauſe of preſent Incon<g ref="char:EOLhyphen"/>veniences for want of it. Vpon the receipt of which Order, the Aſſembly laid aſide for the preſent, the conſideration of the ordinary way of Ordination, which they were then upon, and appointed a Committee to bring in ſomewhat concerning an extra<g ref="char:EOLhyphen"/>ordinary way of Ordination for the preſent neceſſity, which Committee accordingly brought in theſe two Propoſitions.</p>
+            <list>
+               <item>1. <hi>That in extraordinary caſes, ſomething extraordinary may be done, until a ſettled Order can be had, yet keeping as neer as poſsible may be to the Rule.</hi>
+               </item>
+               <item>2. <hi>That it is lawful according to the Word, That certain Miniſters of the City be deſired to ordain Miniſters in the City, and the vicinity</hi> jure fraternitatis.</item>
+            </list>
+            <p>After many dayes ſpent in debate of thoſe Propoſitions, and ſeveral Votes paſſed about them, our Brethren not being ſatisfied in the ſtating of them, eſpecially of the latter, were oft deſired ſeveral dayes by divers Brethren to propoſe how themſelves would have it ſtated: Which they as oft declined, ſaying, They could not do it preſent<g ref="char:EOLhyphen"/>ly; to which it was at laſt replied, That though at the firſt motion they could not do it preſently, yet now the Aſſembly had been already three dayes about the ſtating of a queſtion; and this the fourth day, onely to ſatisfie theſe Brethren, they now had had time to conſider how they would have it ſtated: Hereupon, one of them ſtood up and ſpake to this purpoſe, <hi>I ſhould not have ſaid thus, but that I was called upon; But it is not ſo fair and rational a way, That as ſoon as we object rationally againſt the ſtating of a queſtion, it ſhould be ſaid, Then bring in a better ſtate. Yet we have brought in a Paper as followeth.</hi>
+            </p>
+            <p>
+               <hi>For the ſecond Propoſition, That it is lawful according to the Word [that certain Miniſters of the City of</hi> London, <hi>be deſired to ordain Miniſters in the vicinity</hi> jure fraternitatis] <hi>We conceive it doth really, and</hi> de facto <hi>ſet up a Presbytery before the Government, that is the ground thereof be disputed. For the ſence of many of the Brethren in the debates, have repre<g ref="char:EOLhyphen"/>ſented this, ſaying, That it was but a mould for other places, to be perfected and continued; ſome affirming it to be a Presbytery, another, that it was a Presbytery both materially and formally, but not in the formality, and urged ſuch Arguments as for a Presbytery; another, that it was the Seed of a Presbytery.</hi>
+            </p>
+            <p>
+               <hi>Secondly, That it was an Act of Juriſdiction, and therefore</hi> jure fraternitatis <hi>muſt be left out; for a Presbytery is a company of divers Miniſters in one City that joyn together to perform an Act of Juriſdiction, and this</hi> 1 Tim. 4. 14. <hi>is made peculiarly to be the work of a</hi>
+               <pb n="7" facs="tcp:115982:4"/> 
+               <hi>Presbytery; from which place the continuance of a Presbytery is mainly argued.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, If any thing be extraordinary in it, that is not in an ordinary Presbytery, yet the firſt Propoſition, ſuppoſing we muſt come as neer as we can to the Rule, doth evidently ſuppoſe that Presbytery is the Rule.</hi>
+            </p>
+            <p>
+               <hi>Fourthly, We cannot diſpute againſt it, but by bringing in all the Arguments againſt the Presbyterial Government, yet is would be denied us, as being beſide the Propoſition. This is the</hi> Gravamen <hi>we are under, the term extraordinary that wipes off all the Arguments againſt a Presbytery, and yet it is for the ſubſtance of it a Presbytery.</hi>
+            </p>
+            <p>And after him another of them gave in a Paper to this purpoſe;</p>
+            <p>
+               <hi>We conceive concerning this ſecond Propoſition, being connected with the firſt, it is thereby made an extraordinary Act, coming a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Rule as may be; and yet the ordinary Rule for Ordination is not firſt known, nor argued upon, nor the proportion, how far extraordinary, diſtinctly ſet d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n, nor a paralel made with the inſtance in the firſt Propoſition, which all muſt be done before this can be judged; a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> likewiſe, what our judgement it concerning Ordination and Elders. Our Judgement is this in theſe two head<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="1">1. <hi>Ordination, and other like Acts of Church power, especially juriſdiction, are ordinarily to be done by the Miniſters and Officers of thoſe Churches whereof they are Officers, and by the conſent of that Church: And ſo as to this, that Preaching Presbyters are capable of the Act of Ordination, two things are more to be required:</hi> 1. <hi>That they be in Church relation.</hi>
+            </p>
+            <p>2. <hi>That then (if more) they be combined in a Presbytery of a Congregation: As Parlia<g ref="char:EOLhyphen"/>ment men, as ſuch, may not make a Law, but its requiſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>; Firſt, that they be of ſuch a body politike, and then ſecondly, that they be orderly <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="2">2. <hi>That Miniſters of another Church may not warrantably do it, as wanting this relation.</hi>
+            </p>
+            <p>
+               <hi>Now here are three things h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h fle<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Firſt, That they is not onely do it as an Act of Order, but of Juriſdiction, in this Church where they have no relation. Secondly, Not in ſuch Combination. Thirdly, For theſe Churches which are not within their Combi<g ref="char:EOLhyphen"/>nation.</hi>
+            </p>
+            <p>
+               <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe Papers,</hi> ſay they, <hi>which we of our ſelves brought in, being read, were returned back unto us.</hi> To which we Anſwer.</p>
+            <p n="1">1. This W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wo of theſe ſeven, who brought in each of them a Paper, but neither of them preſented as the ſence of all theſe Brethren; but, for ought we know, as their ſingle ſence; ſaving onely, that they uſed the word We, which might give the Aſſembly ſome ground to think it was the Act of ſome others; whereupon, about the end of the debute one of them was asked, In whoſe name they preſented thoſe Papers, whether in his own name, or in the name of ſome others alſo, becauſe he ſpake of We and U<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? And th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> if it were in the name of others, it was deſired it ſhould be expreſſed, who they were. But it was not even then affirmed by him to be given in, in the name of all theſe Brethren. But he excuſed the word We, becauſe that others were upon the negative in the debute, as well as himſelf: Nor were they expreſſely owned when preſented, but by a third perſon (ſo far as either our notes or memories can inform us) who upon occaſion of that queſtion ſtood up and ſaid, <hi>I own them with the reſt of the Brethren;</hi> but who theſe Brethren were, or how many of them, was not expreſſed. And we queſtion, whether theſe ſeven Brethren will yet ſay, That all of them had ſo much as ſeen them before they were brought in to the Aſſembly: And therefore it ſeems ſomething ſtrange they ſhould now all ſay, <hi>we our ſelves</hi> (as in the Printed Paper) or <hi>We of our ſelves</hi> (as in the Paper given in to the Aſſembly) <hi>preſented Papers;</hi> when neither all did preſent Papers, nor did it of themſelves, but upon the reiterated motion of divers of the Aſſembly.</p>
+            <p n="2">2. And as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is it they ſhould ſay<g ref="char:punc">▪</g> 
+               <hi>Theſe Papers <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſtate of the question.</hi> It
+<pb n="8" facs="tcp:115982:5"/> appears from thoſe Papers themſelves, that the one of thoſe Papers was nothing elſe but a troubling the ſtate of the queſtion with cavils and jealouſies, and undue com<g ref="char:EOLhyphen"/>plaints of <hi>Gravamina,</hi> as that they ſhould be ſurpriſed, and by this means a Presbytery ſet up before diſputed, and the like: To prevent which, and ſatisfie them therein (ſo little reaſon have they to complain of ſlighting theſe Papers) the matter of extraordi<g ref="char:EOLhyphen"/>nary Ordination, notwithſtanding the Order of Parliament above mentioned, was left <hi>in medio</hi> the Seſſion following, and the large diſpute of the lawfulneſſe of a Claſſical Presbytery diſpatched, before we returned to it again; and then we firſt ſetled the ordinary way which was the Rule, before we concluded of the extraordinary way for the preſent neceſſity. And the other of thoſe Papers was not a ſtating the queſtion, but a diſputing and arguing the queſtion, and yet not properly that queſtion, of Ordi<g ref="char:EOLhyphen"/>nation in an extraordinary way, according to the preſent neceſſity; but the queſtion of Ordination in an ordinary, and ſetled way (which was the work the Aſſembly had been about, for many dayes:) And, which after a reſolution in the Aſſembly, had been pro<g ref="char:EOLhyphen"/>per for them to have put in by way of diſſent (according as the Ordinance by which we ſit, doth provide) but not while it was in agitation, by way of Argument. For our Brethren know the diſputes of the Aſſembly are managed by ſpeaking, not by writing, and were it otherwiſe, the diſputes would be endleſſe.</p>
+            <p>Theſe Papers therefore were as they ſay, returned back: Being but the ſum of what theſe Brethren had objected and argued againſt the queſtion in the debates paſt, and having therein been fully Anſwered.</p>
+            <p n="6">VI. But whereas they ſay, <hi>It was profeſſed publikely, that it was not an allowed way or courſe of this Aſſembly, for any of the Brethren to bring in Papers, unleſſe they were made a Committee.</hi>
+            </p>
+            <p>We ſay firſt, poſſibly the unwary Reader may think this and ſome other paſſages in their Paper, that ſpeak the ſame Language, to have been the publike Vote or Declaration of the Aſſembly; which, whatever it were, was but the expreſſion of one Brother: And our Brethren know well, that it hath been often aſſerted in this Aſſembly, that nothing ſpoken by a particular Brother, can in equity be charged upon the whole Aſſembly; or reputed us their ſence, unleſſe ſo reſolved by Vote or Order of the Aſſembly; elſe were the Aſſembly accountable for every Speech of any of theſe Brethren diſſenters, as well as the Speech of any other.</p>
+            <p>And ſecondly, It ſeems very ſtrange, that it ſhould be publikely declared, to be no allowed courſe to give in Papers, when even at this time out Brethren had been deſired to give in Papers, and no exception made againſt it (Though not ſuch Papers.)</p>
+            <p>Thirdly, How capable the words ſpoken in the Aſſembly at that time are of the ſence theſe Brethren put upon them, let the words themſelves declare, which were to this purpoſe, <hi>I ſhall give you my thoughts in a few words to the Papers: It was expreſſed before, upon what occaſion theſe Brethren were deſired to help the Aſſembly, in that which they and we did apprehend to make us ſtick: They have brought in two Papers, they ſay, in the nature of a</hi> Gravamen. <hi>I take it to be a</hi> Gravamen, <hi>and of ill conſequence for the time to come, when we have liberty to give in Reaſons to the Houſes, that they ſhould in writing give in</hi> Gravamen<hi>'s to us. I ſuppoſe the Honourable Houſes have given no ſuch power. I move, they may have their Papers delivered again, that we have no ſuch Preſidents.</hi> But our Brethren who can remember this, might pleaſe to remember that it was at the ſame time proffered publikely, <hi>That if they would tender their Papers as Reaſons of a diſſent, we would ſo receive them;</hi> But this was by them declined.</p>
+            <p>Fourthly, And as for <hi>ſtating a question,</hi> our Brethren know very well, that it is no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nuſual courſe, but very frequent in this Aſſembly, for any particular Brother to tender the ſtate of a queſtion in writing; which is ſometimes taken into debate, and ſome<g ref="char:EOLhyphen"/>times
+<pb n="9" facs="tcp:115982:5"/> laid aſide, as the Aſſembly thinks fit; and ſometimes ſeveral ſtatings of the ſame queſtion offered by ſeveral Brethren: of which, ſome one is pitched upon. Yea, and that very day after the giving back of theſe Papers, one of theſe Brethren amongſt others, tendered two ſeveral ſtatings of a queſtion in writing; So that our Brethren need not pretend their laying hold on one Example (as they ſeem to do afterward) of ſomething brought in by one Brother, and accepted, for their offering the ſtate of a queſtion in writing: As if from the time of the giving back of theſe Papers, till the bringing in of the Seven Propoſitions there mentioned, there had been but one Inſtance of a Paper tendered by a particular Brother, and accepted. Nor were they, as they here pretend, by the refuſal of theſe Papers, prevented for the time to come of doing the like, <hi>viz.</hi> The like to what theſe are pretended to be <hi>(Papers giving the ſtate of the Queſtion)</hi> though perhaps they might be prevented of giving ſuch Papers, as thoſe were (to wit, unjuſt Complaints of grievances) in ſuch a way.</p>
+            <p n="7">VII. <hi>Their Complaints about ſtating the queſtion were,</hi> they ſay, <hi>frequent.</hi> We ſay ſo to, and wiſh that ſome had not ſet themſelves more to vex and puzzle the ſtate of the queſtion, and to render a Propoſition clearly ſtated, perplex, and obſcure, then to diſpute the truth or falſhood of it by the Word of God: Who have ſometimes con<g ref="char:EOLhyphen"/>tended much againſt the ſtating of the queſtion, which when it hath been reſolved on to be ſo diſputed on <hi>in terminis,</hi> have neither diſputed, nor voted againſt it.</p>
+            <p>But thus we anſwer, Their Complaints were many times unjuſt; for the Propo<g ref="char:EOLhyphen"/>ſitions brought in to the Aſſembly, were ſtated by Committees, where theſe Brethren had the liberty, and it was their duty to have been preſent, being ſome of them Mem<g ref="char:EOLhyphen"/>bers of each Committee, and ought to have contributed their thoughts towards the ſtating of queſtions there, and not to have troubled the Aſſembly in this kinde; which yet they have often done, and often without cauſe: For many a time, when upon their quarrelling with the ſtate of the queſtion, proffer hath been made to offer a fitter ſtating of it, if they liked not this: It hath been replyed, <hi>They knew no ſuch law nor the Aſſembly, that whoſoever findes fault with the ſtating of a Queſtion, muſt have this penalty laid upon him to finde a better.</hi> And yet their frequent Complaints about ſtating the queſtion, received other Anſwers then what they are now pleaſed to mention [viz. <hi>That the Aſſembly ſate not to argue the Opinions of a few men]</hi> of which Anſwer, we onely ſay thus much. Firſt, That if there were ſuch an Anſwer given, it was but the Anſwer of ſome one man, which the Brethren would, at leaſt by inſinuation charge upon the whole Aſſembly. Secondly, We wiſh theſe words true; and, That the Aſſembly had not ſitten to debate the Opinion of a few men.</p>
+            <p n="8">VIII. The next thing they alleage, and <hi>which</hi> they ſay, is <hi>A ſufficient Teſtimony of this their willingneſſe,</hi> is their <hi>earneſt contending to have ſome Queſtions, which</hi> (ſay they) <hi>you all know are the greatest and moſt fundamental points, fairly disputed and debated.</hi>
+            </p>
+            <p>To which we Anſwer.</p>
+            <p n="1">1. Their earneſt contending for <hi>ſome Queſtions</hi> (wherein they might poſſibly hope to advantage themſelves, either by dividing the Aſſembly or otherwiſe) is no <hi>ſufficient Testimony</hi> of their <hi>constant willingneſſe, and forwardneſſe to make known what ever they hold in Church-Government:</hi> The rather becauſe,</p>
+            <p n="2">2. Many other points as Fundamental, in reference to differences between them and us, they have never offered to debate or prove, but have rather ſhunned them when they have had fair opportunities before them, and Arguments put into their mouths: As for Inſtance, when that queſtion was debated, <hi>The Scripture holds forth, that many particular Congregations may be under one Presbyterial Government,</hi> againſt which they diſputed about thirty dayes together; and (as hath been ſaid by one of them publikely in the Aſſem<g ref="char:EOLhyphen"/>bly) <hi>they muſt confeſſe they had fair play;</hi> Eſpecially they having the advantage to diſpute
+<pb n="10" facs="tcp:115982:6"/> about half the time on the negative, before the Aſſembly brought one Argument for the affirmative; yet all this time, though the Argument lay fair before them, if they had pleaſed to uſe it, <hi>That if every particular Congregation have all, and ſole power within themſelves Independently, then there may be no ſuch Presbytery over many Congregations:</hi> And though it were often hinted to them, both then and at other times to uſe it, they ſtill declined it in their whole diſpute; and likewiſe in their Reaſons exhibited to both the Honourable Houſes of Parliament, inſiſting mean while upon Arguments from Incongruities and Inconveniences. And when moved to uſe this Argument, from the Inſtitution of ſuch intire Independent power in ſingle Congregations (which had been the faireſt way of diſputing againſt that Propoſition) it was replyed, That the Aſſembly was not to preſcribe them their Arguments, but while they were Opponents, they might uſe what <hi>medium</hi> they thought fit. We might Inſtance in many other points, which we all know to be great and Fundamental queſtions, in reference to that way of Church-Government which the Brethren practiſe, as</p>
+            <p n="1">1. Whether their gathering of Churches here in <hi>England,</hi> was juſt, neceſſary, ſeaſonable.</p>
+            <p n="2">2. How far every particular man and woman may go according to their own judge<g ref="char:EOLhyphen"/>ment, in ſeparating from thoſe Congregations wherein they have orderly Communi<g ref="char:EOLhyphen"/>cated.</p>
+            <p n="3">3 What power ſingle men and women have of Congregating themſelves together, to become a Church as their own diſcretion leads them, without the guidance of able Miniſters, and Authority of the Magiſtrate.</p>
+            <p n="4">4. Whether people ſo congregated of their own accord, have all power within them<g ref="char:EOLhyphen"/>ſelves for admitting or refuſing Members, chuſing or ordaining Officers.</p>
+            <p n="5">5. Whether people are to rule over their Officers.</p>
+            <p n="6">6. Whether every Congregation ought to have a diſtinct Presbytery, or whether many may not lawfully have one common Presbytery ruling immediately over them.</p>
+            <p>Theſe and the like queſtions we know to be ſome of the greateſt and moſt Funda<g ref="char:EOLhyphen"/>mental points (as to their way) but we do not remember, that ever they did earneſtly contend to have theſe queſtions fairly diſputed and debated: Neither do themſelves we think remember it.</p>
+            <p n="9">IX. To the two particulars they inſiſt upon (for they mention no more) as queſti<g ref="char:EOLhyphen"/>ons which they contended to be debated; and which they ſay, is <hi>a ſufficient Teſtimony of this their willingneſſe,</hi> (to make known what ever they hold in Church Government) We Anſwer particularly.</p>
+            <p>To the firſt of theſe, <hi>That there is a Platform of Government for the Churches under the Goſpel, laid down in the Scriptures.</hi> We Anſwer,</p>
+            <p n="1">1. That it is a <hi>Fundamental point</hi> in reference to Church Government, we acknow<g ref="char:EOLhyphen"/>ledge; but deny that it is a <hi>Fundamental point of difference</hi> between theſe our Brethren, and the Presbyterians. For our Brethren may well know, that thoſe of the Reformed Churches who practiſe a Presbyterian Government, pleaded a <hi>Jus Divinum</hi> for their Government, long before this way of our Brethren was thought upon; and therefore, neither is their conteding for this queſtion, any ſuch Argument of their willingneſſe to declare themſelves in Tenents that are peculiarly their own.</p>
+            <p n="2">2. That this queſtion, or ſome other to this purpoſe, was contended for to be debated in the Aſſembly at the beginning of their debates about Church-Government, we do remember: But our Brethren may as well remember, that this motion was not onely theirs, but was as well contended for by the Commiſſioners from <hi>Scotland,</hi> and many others in the Aſſembly, as by themſelves; who did not yet finde themſelves agrieved that the major part of the Aſſembly were not of their mindes in point of method.</p>
+            <p n="3">
+               <pb n="11" facs="tcp:115982:6"/> 3. That this queſtion was then<g ref="char:punc">▪</g> for the preſent (after ſome debate) laid aſide, we grant; but ſay withal, That the Aſſembly conceived themſelves to have good reaſon ſo to do, it being ſo often urged as Immethodical to Vote a Platform to be laid down in Scripture, before we had ever inquired, Where it was ſo laid down, or knew Whether we ſhould finde ſuch a Platform there: But, that if upon ſearch after particulars, we could finde them in Scripture, the Reſolution of this queſtion, Whether there be any ſuch Platform there, would be an eaſie reſult from the whole; but would at firſt en<g ref="char:EOLhyphen"/>trance be found exceeding intricate and difficult. Which conſiderations, together with many others then alleaged, perſwaded the Aſſembly to lay aſide that queſtion at preſent.</p>
+            <p n="4">4. But that this queſtion was ſo laid aſide, as never to be taken up or renewed in the ſubſequent debates; we think our Brethren have no cauſe to affirm. For that they may well remember, That after the Aſſembly had concluded a Soveraign power of Govern<g ref="char:EOLhyphen"/>ment in Chriſt, the Head and King of his Church: And, that the Apoſtles had received the Keyes from the hand of Chriſt immediately, and did exerciſe them in all Churches of the world, upon all occaſions, (which Method, the Aſſembly conceived was a fair way of proceeding) they proceeded to inquire, Whether there were any ſuch Govern<g ref="char:EOLhyphen"/>ment <hi>now</hi> in the Church? And did not onely debate it, but reſolved upon the queſtion <hi>nomine contradicente,</hi> That <hi>Christ hath inſtituted a Government and Governours Eccleſiaſtical, in the Church.</hi> And that <hi>he hath furniſhed ſome from time to time with Gifts for Govern<g ref="char:EOLhyphen"/>ment, and Commiſſion to exerciſe the ſame when called thereunto.</hi> And this Antecedent to the main debates of Government, having not then Reſolved of any other ordinary Church-Officers, ſave onely Miniſters of the Word, much leſſe of the Body of Government which hath been twice ſent up (amongſt others) to the Honourable Houſes of Parliament.</p>
+            <p n="5">5. Whereas they adde, That <hi>they deſired it to be diſcuſſed, What are the ſure and certain wayes to finde out what of Government is held forth</hi> jure divino <hi>in Scripture.</hi> We know no other way of finding what of Government is held forth in Scripture, then by examining the ſeveral Arguments drawn from Scripture for the ſeveral parts of Government, as they came in order to be conſidered; and this way we have uſed all along.</p>
+            <p n="6">6. Neither do we ſee any Reaſon for that Complaint of theirs, that <hi>by laying aſide this queſtion</hi> at that time, <hi>their Arguments were cut off.</hi> For 1. That this was not wholly laid aſide appears, we conceive, from what is ſaid already. 2. Others who contended for that queſtion as well as themſelves, have found no ſuch cauſe to complain of their Arguments being cut off; who might, for ought we ſee, have made as good uſe of Arguments drawn from ſuch a head, as theſe our Brethren. 3. We cannot ſee how this principle, though granted on both ſides, is ſuch <hi>a great and neceſſary medium, by which the particulars ſhould have been confirmed, and in a manner, the whole controverſie decided,</hi> as they affirm. The Controverſie between our Brethren and the Presbyterians not be<g ref="char:EOLhyphen"/>ing ſo much, Whether there be a Government <hi>jure divino,</hi> as Whether it be this or that? Whether that which our Brethren pretend to and we deny, or that which the Re<g ref="char:EOLhyphen"/>formed Churches have ſo long practiſed and pleaded for, and they deny. 4. But if this were ſo great and neceſſary a <hi>medium</hi> for their Cauſe, the laying aſide the Reſolution of the queſtion in the Aſſembly, at that time was no hinderance, but that they might have uſed it: For our Brethren very well know that they have uſed other <hi>mediums,</hi> then what have been reſolved in the Aſſembly, and might ſo do without exception. And that they have been often called upon to uſe this <hi>medium</hi> for their particular way (as was ſaid before) and would doubtleſſe have made uſe of it, if they could have made it out, That their way was thus inſtituted, which yet they never went about to prove. 5. And to conclude, If this were ſo advantageous a ground for their Arguments, as they ſeem here to make it; we have the more reaſon to beleeve that it was not meerly a
+<pb n="12" facs="tcp:115982:7"/> 
+               <hi>willingneſſe to make known what ever they h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld,</hi> which was the cauſe of their contending for this queſtion, but rather ſome advantage they hoped to make of it.</p>
+            <p n="10">X. As to <hi>That other next great queſtion</hi> (as they call is) <hi>about the intire power of Con<g ref="char:EOLhyphen"/>gregations, that have a ſufficient Prebytery for all Conſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s; which</hi> (ſay they) <hi>as it is the first in order, that preſents it ſelf for diſcuſſion, ſo alſo it is one of the greateſt points in diffe<g ref="char:EOLhyphen"/>rence between us.</hi> We Anſwer; 1. It is indeed one of the greateſt points in difference<g ref="char:punc">▪</g> But ſecondly, That it muſt neceſſarily have the firſt place in our diſcuſſions, we deny. Our Brethren know the method of the Aſſembly in theſe debates about Church Govern<g ref="char:EOLhyphen"/>ment, was this; We began with Chriſt the Head, the great King, Prieſt, and Prophet of his Church (as was intimated before) From him we proceeded to inquite of Offi<g ref="char:EOLhyphen"/>cers ſet by him in his Church extraordinary and ordinary; then of the power of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Officers; after that, of the ſubject about which this power was exerciſed. Firſt, The general Church viſible, to which the Officers, Oracles, and Ordinances of the New Teſtament were given by Chriſt for the Edification thereof. Secondly, Particular viſi<g ref="char:EOLhyphen"/>ble Churches Members of that general Church. This, though we do not contend to be the onely method, yet it was that which the Aſſembly judged fitteſt to proceed in<g ref="char:punc">▪</g> And we know not that our Brethren have juſt reaſon to except againſt it, but that the Aſ<g ref="char:EOLhyphen"/>ſembly might thus proceed. And what Reaſons have been alleaged by themſelves or others (for it pleaſed them to intimate, that ſome others were of their Opinion in this point, of the order of our Diſputes) why in ſome particular queſtion the Aſſembly ſhould decline this Method, were either hearkned to or anſwered.</p>
+            <p n="11">XI. And whereas it is ſaid to be <hi>expreſly commended by the Grand Committee of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Honourable Members of both Houſes.</hi> We Anſwer;</p>
+            <p n="1">1. We do not know, that the ſaid Grand Committee did at any time recommend it to the Aſsembly to debate, <hi>The entire power of particular Congregations which have a ſufficient Presbytery for all Cenſures,</hi> as our Brethren here aſſert.</p>
+            <p n="2">2. But we acknowledge, that the ſaid Honorable Committee did recommend ſame other queſtions far otherwiſe ſtated, of which the Aſſembly returned ſuch Anſwer, as (for ought we know to the contrary) they were ſatisfied with; as may appear by the Order of the ſaid Committee; and the Aſſemblies Anſwer to it, which ſo ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as they concern the preſent buſineſſe, we have thought fit here to inſert.</p>
+            <p>Auguſt 19. 1644. <hi>At the Committee of Lords and Comment, Aſſembly of Divines, and Commiſſioners for the Church of</hi> Scotland <hi>reſolved.</hi>
+            </p>
+            <p n="1">1. <hi>That the Aſſembly be deſired to return to the debate about Church-Government, as ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n as they have done with Ordination.</hi>
+            </p>
+            <p n="2">2. <hi>That they then take into their debate the buſineſſe of Excommunication, and therein <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> diſcuſſe theſe three queſtions in order:</hi> 1. <hi>Whether there be ſuch an Ordinance as Excommun<g ref="char:EOLhyphen"/>nication, and what it is.</hi> 2. <hi>Whether particular Congregations may Excommunicate.</hi> 3. <hi>Whether Claſſical Presbyteries, and greater Aſſemblies may Excommunicate.</hi>
+            </p>
+            <p>After which, the Aſſembly received from the ſaid Committee another Order as followeth.</p>
+            <floatingText xml:lang="eng" type="order">
+               <body>
+                  <head>
+                     <hi>At a Committee of Lords and Commons, and Aſſembly of Divines, appointed <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> with the Commiſſioners of the Church of</hi> Scotland.</head>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>October</hi> 11. 1644.</date>
+                     </dateline> 
+                     <hi>Reſolved, &amp;c.</hi>
+                  </opener>
+                  <p>
+                     <hi>That whereas about two moneths ſince, this Committee did among other particular<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> which they recommended to the Aſſembly of Divines, deſire of them, That when they did return unto the debate of Church-Government, they would then diſcuſſe the matter of Excommunication, and therein to debate theſe three particulars in this Method and Order.</hi> 1. <hi>Whether there be ſuch an Ordinance as Excommunication, and what it is.</hi> 2. <hi>Whether particular Congregations</hi>
+                     <pb n="13" facs="tcp:115982:7"/> 
+                     <hi>may exerciſe it.</hi> 3. <hi>Whether Claſſical Presbyteries and Synods may exerciſe it. The Aſſembly be intreated to return in writing, what they have done in the ſaid particulars, and that this Committee may receive an Anſwer at their next meeting on Tueſday next.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>To which Order the Aſſembly did accordingly return an Anſwer, as was deſired, which (after an accompt of what was done in Reference to the three firſt Requeſts of the former Order) was as followeth.</p>
+            <floatingText xml:lang="eng" type="answer">
+               <body>
+                  <p>
+                     <hi>Upon September</hi> 4. <hi>the Aſſembly having finiſhed the buſineſſe of Ordination, &amp;c. The Report of the Grand Committee was deſired to be taken into conſideration again, and in the debate thereof, according to the fourth deſire of the Committee, it was ordered, That the Aſſem<g ref="char:EOLhyphen"/>bly ſhould return to the debate about Government. It was farther debated, whether the Aſ<g ref="char:EOLhyphen"/>ſembly ſhould proceed according to the Method of the Grand Committee, expreſſed in the fifth and laſt deſire. This was moved by ſome of the Members of the Aſſembly; others moved to proceed upon the Report of the first Committee concerning ſome additional proofs for the Pres<g ref="char:EOLhyphen"/>bytery, over more Congregations then one. Others moved to conſider of the Report of the Committee for the ſummary, in caſe the Aſſembly did not think fit to proceed in the Method of the Grand Committee: Others moved next to conſider of the ſeveral ſorts of Aſſemblies for Government, and their ſubordination. This laſt was urged by the Commiſſioners of</hi> Scotland, <hi>partly, that ſo the Aſſembly might hold out what Government they would adviſe the Parliament unto; which would be of great uſe for the perfecting the Propoſitions agreed upon by both King<g ref="char:EOLhyphen"/>doms; and partly, becauſe it was agreeable to the courſe of the Aſſembly, to debate thoſe things firſt wherein the Aſſembly would be most uninamous. After a large debate it was Reſolved, that this ſhall be next debated, That it is agreeable to the Word of God, that the Church be Governed by ſeveral ſorts of Aſſemblies. The Aſſembly accordingly proceeded in that debate, and having concluded of the ſeveral ſorts of Aſſemblies, and the Members of them, were en<g ref="char:EOLhyphen"/>tring upon the Conſideration of the ſubordination of them, and the power that they have in common: When it was upon the</hi> 23 <hi>of</hi> September <hi>moved to conſider what to do with Excom<g ref="char:EOLhyphen"/>munication, whether to refer it to a new Committee, or to the ſecond Committee to perfect the buſineſſe of Excommunication, which was formerly committed to them. Whereupon it was Ordered, That the ſecond Committee ſhall perfect their Report concerning Excommunication with all convenient ſpeed.</hi>
+                  </p>
+                  <p>
+                     <hi>The ſecond Committee met accordingly, and upon the eight of</hi> October <hi>made their Report, in which Seſſion the Aſſembly finiſhed the laſt Propoſition that they had in debate about the power of Aſſemblies in Common, &amp;c.</hi> [viz. <hi>It is lawful and agreeable to the Word of God, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> all the ſaid Aſſembly have ſome power to dispence Church cenſures] This Propoſition being Re<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ved, it was Ordered to debate the Report of the ſecond Committee: Which the Aſſembly hath now entred upon. But for the point of Method they have concluded nothing, but it is yet free for the Aſſembly to take what Method they ſhall ſee fit.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>By which Papers it appears, what were the particulars recommended to the Aſſembly by the ſaid Grand Committee; and that they had hitherto fulfilled their deſires. Onely (for the Reaſons therein alleaged) they had interpoſed a debate concerning the ſeveral Aſſemblies for Government, and concluded that <hi>there was ſuch Aſſemblies</hi> before they conſidered <hi>what they might do;</hi> And, <hi>That they had ſome power in cenſure,</hi> before they came to that particular, <hi>Whether they might Excommunicate.</hi> And in that point of Excommunication recommended, they had not as yet departed from the Method, but were in debate of the Report of a Committee appointed to draw up Propoſitions con<g ref="char:EOLhyphen"/>cerning it, and had not proceeded beyond what was in Anſwer to the firſt of the three particulars propoſed. <hi>viz. Whether there were ſuch an Ordinance as Excommunication, and what it is.</hi> And, whether the Aſſembly did afterward break that Method deſired, or
+<pb n="14" facs="tcp:115982:8"/> were juſtly blameable herein, will appear by what follows in our Anſwer to what they charge us with.</p>
+            <p n="12">XII. Two things there are, wherewith our Brethren charge us in this matter, (viz. <hi>The entire power of Congregations which have a ſufficient Presbytery for all Conſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es)</hi> 1. <hi>That the debate of this was denyed the firſt place.</hi> 2. <hi>That it was to this day declined by us,</hi> though thus and thus urged, <hi>&amp;c.</hi>
+            </p>
+            <p>The firſt branch of which Charge, we conceive to have no great weight, partly by Reaſon of what we have ſaid before, and partly, becauſe breach of Method in the Or<g ref="char:EOLhyphen"/>der of debates, if the Aſſembly ſhould be guilty of it (which doth not yet appear in this particular) would not be accounted any great crime by thoſe who know the na<g ref="char:EOLhyphen"/>ture of ſuch proceedings. The ſecond we confeſſe, if true, had ſome more weight in it, and might ſeem a Charge of conſequence, if the Aſſembly in their whole debates of Church-Government ſhould yet never from firſt to laſt, conſider what power is to be allowed to particular Congregations. But we ſhall Anſwer particularly to both, branches of this Charge, and to the latter firſt.</p>
+            <p>To this therefore: Firſt, Will our Brethren upon ſecond thoughts aſſert, That to this day the Aſſembly hath declined it. Was the power of Congregations never before the Aſſembly? Were there no debates upon it? Were there no queſtions formed up? No Reſolutions on it? No Propoſitions of that nature ſent up to the Honourable Houſes of Parliament? Surely there were, and our Brethren, we think, cannot deny it. If they have forgotten us we ſhall put them in minde of ſome. Our Brethren may remember, that there were large debates in the Aſſembly concerning a difference, much inſiſted upon by our Brethren, between <hi>Congregations fixed in their Officers and Members, having a Presbytery of their own, and Congregations not fixed, but fluid:</hi> Whether ſuch <hi>fixed</hi> Congregations as well as thoſe <hi>not fixed,</hi> might be united under one Claſſical Presbytery: Which was argued at large in the Aſſembly, from <hi>April</hi> 4. 1644. till the fifteenth following.</p>
+            <p>Our Brethren may remember further, that there were many debates and reſolutions in the Aſſembly about particular Congregations, <hi>Whether ſuch ought to be? Of what Members they conſiſt? How divided and bounded? What Officers? And what Ordinances ought to be in ſuch Congregations,</hi> from the ſaid <hi>April</hi> 15. till <hi>May</hi> 6. following.</p>
+            <p>Our Brethren may remember likewiſe, that there was this Negative brought in by a Committee of the Aſſembly, of which ſome of theſe Brethren were Members, <hi>This no ſingle Congregation may ordinarily aſſume to it ſelf all and ſole power in Elections, Ordina<g ref="char:EOLhyphen"/>tions, or Cenſures, or in Forinſecal determining Controverſies of Faith, Caſes of Conſcience, and things indifferent.</hi> Which queſtion, we conceive doth fully reach the debate, which they ſay, they ſo much deſired, and was largely debated in the Aſſembly (firſt for ſome dayes intirely, and afterward <hi>per partes)</hi> in ſeveral Seſſions from that <hi>May</hi> 6. 1644. till <hi>May</hi> 16 then following, and many Reſolves of the Aſſembly upon it: And among the reſt, this for one (after a long debate) <hi>That no particular Congregation which can con<g ref="char:EOLhyphen"/>veniently Aſſociate may aſſume to it ſelf all and ſole power in Ordination.</hi> Which was after<g ref="char:EOLhyphen"/>ward alleniated by prefixing ſome words upon a diſtinct <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ote thus, <hi>It is very requiſite</hi> that no particular Congregation do aſſume, <hi>&amp;c,</hi> and Arguments were brought in and voted by the Aſſembly for the proving of it, and ſent up to both Houſes of Parliament.</p>
+            <p>Our Brethren likewiſe may remember, that the Aſſembly procee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in debating the <hi>power of Elderſhips in particular Congregations,</hi> till <hi>May</hi> 20 following; and it was in ſeveral Votes Reſolved, <hi>That they have power authoritatively to call before them any perſon within the Congregation, as there ſhall be juſt occaſion; to inquire into the knowledge and spiritual eſtate of any Member of the Congregation; to admoniſh and rebuke,</hi> Which Votes have been likewiſe ſent up to the Houſes of Parliament.</p>
+            <pb n="15" facs="tcp:115982:8"/>
+            <p> Our Brethren likewiſe may remember, that the Aſſembly then proceeded to debate, Whether <hi>they have power authoritatively to ſuspend from the Sacrament, a perſon not Excom<g ref="char:EOLhyphen"/>municated.</hi> In five ſeveral Seſſions, from <hi>May</hi> 20, till <hi>May</hi> 24; and again, <hi>October</hi> 24 and 25 following: And Reſolved it affirmatively, and carried up their ſaid Reſolution with the Proofs annexed.</p>
+            <p>And when we ſhould have proceeded farther about the ſeat of the power of Excom<g ref="char:EOLhyphen"/>munication, we conſulted wayes of Accommodation. Which buſineſſe of Accommo<g ref="char:EOLhyphen"/>dation was thus occaſioned, and thus carried on.</p>
+            <p>The Aſſembly having fully and unanimouſly agreed, that <hi>Excommunication is an Or<g ref="char:EOLhyphen"/>dinance of Chriſt;</hi> found their progreſſe in the further debate of that ſubject, made difficult by ſome diverſity of judgements, which appeared among them concerning the proper ſeat of the power of Excommunication. Towards the compoſing of which Differences, ſome of the Members of the Aſſembly drew up certain Directions for the Adminiſtration of Church <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enſures in the Church; which being communicated pri<g ref="char:EOLhyphen"/>vately to ſome other Brethren, were with their conſent and liking, brought into the Aſſembly; where being read, it was excepted againſt by one of theſe diſſenting Bre<g ref="char:EOLhyphen"/>thren (to whom it had been before Communicated, and left ſome time in his hands to adviſe upon) <hi>That this which was tendred, did accommodate the difference about the ſeat of the power of Excommunication, as to two parties that differed, but not as to the third;</hi> and moved withal <hi>that that point might be committed to an equal number of each part, to ſee if they might finde a way of Accommodation that all might agree in.</hi> This motion was aſſented to, and the thing ſo committed, and (after ſome dayes ſpent in conſultation) <hi>Jan.</hi> 10. 1644. there was a Report brought in as an Accommodation, and ſo agreed on by that whole Committee, <hi>Nemine contradicente,</hi> and as ſuch preſented to the Aſſembly, and ſuch received by them, with expreſſion of much content and joy therein.</p>
+            <p>
+               <hi>Jan.</hi> 14. It was urged by one of theſe Brethren, that having now accommodated in one point (in the ſeat of the power of Excommunication) it would be to their prejudice, unleſſe all other particulars expreſſed in the Paper might be accommodated alſo. Vpon this, the whole was committed; both what was before concluded, and what was yet remaining to be diſcuſſed. And out of a tender deſire not to break with our Brethren in this great point of Excommunication, wherein we hoped we had ſo happily begun to accommodate; there was ſuch condiſcention to them, as that in concluſion (that clauſe onely excepted which concerns the Order, Peace and Vnity, which Chriſt hath eſtabliſhed in his Church) that whole Directory of Excommunication, both for matter and words, is as we conceive, according to our Brethrens minde. And the Aſſembly to gratifie them, and out of an earneſt deſire and expectation of an accommodation with them, did expreſſe many, if not moſt of the particulars in that Directory, in ſuch terms and after ſuch a manner, as otherwiſe they would not have done: Yet after all this, when that Paper was Voted to be ſent up to the Honorable Houſes of Parliament as an Accommodation: Theſ: Brethren, contrary to what we expected, entred <hi>their diſſent to this as an Accommodation;</hi> Which themſelves moved, and which had the concurre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of their Votes (<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Clauſe excepted) all along. And by this means have left us bound by our own Votes, and themſelves at liberty to practiſe what they pleaſe in Church Cen<g ref="char:EOLhyphen"/>ſures. Their diſſent was as followeth.</p>
+            <floatingText xml:lang="eng" type="dissent">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Feb.</hi> 3. 1644.</date>
+                     </dateline>
+                  </opener>
+                  <head>The diſſent of the Brethren, whoſe names are underwritten.</head>
+                  <p>
+                     <hi>We and divers others in the Aſſembly, having held forth all along this treaty of Accom<g ref="char:EOLhyphen"/>modation, that the intent thereof was, That there being different Judgements in this Aſſembly about Excommunication; the words of this Directory are ſo penned for Accommodation of</hi>
+                     <pb n="16" facs="tcp:115982:9"/> 
+                     <hi>all, that each may retain their ſenſe and practiſe of the Cenſures in the Church accordingly, without breaking the common Rule: We whoſe names are under written do enter our diſſent to it as an Accommodation in any other ſence,</hi>
+                  </p>
+                  <closer>
+                     <signed>Thomas Goodwin, William Bridge, Ieremy Burroughs, Phillip Ny, William Carter.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>To which diſſent we did then and do now give this Anſwer, <hi>That our Brethren then</hi> (when the Accommodation was brought into the Aſſembly, and as ſuch accepted) <hi>put in no ſuch reſtriction as now they do, of excepting it as an Accommodation in ſuch or ſuch a ſence; nay, the Reporter made it a requeſt from the Committee to the Aſſembly, That the form of words there agreed upon, might be accepted, and the ſence not debated at all. And our Bre<g ref="char:EOLhyphen"/>thren know it was ſo.</hi>
+            </p>
+            <p>2. <hi>Although they did ſometimes in the enſuing debates, mention ſuch a ſence, yet never urged to have this expreſſed as the ſence, intent, or condition of the Accommodation, till the very day of their entring their diſſent.</hi>
+            </p>
+            <p>3. <hi>Although one of the diſſenting Brethren, did</hi> Ianuary 14. <hi>occaſionally in another occaſi<g ref="char:EOLhyphen"/>on mention differing practiſes that might be in adminiſtring Church Cenſures, yet this was not pleaded for, no not by him, as the ſence or condition of the Accommodation.</hi>
+            </p>
+            <p>4. <hi>But the very mention of it was by him who had brought in the Report for Accommo<g ref="char:EOLhyphen"/>dation, condemned as a thing injurious and prejudicial to Accommodation. So far was it from being held forth as the ſence of the Committee or Aſſembly.</hi>
+            </p>
+            <p>
+               <hi>However we deſire it may be obſerved the diſſent our Brethren enter here, is not to this Directory, as not agreeable to the Word of God; but, as not being ſuch an Accommodation as will ſerve them.</hi>
+            </p>
+            <p>All this being conſidered (beſides other debates, both before and ſince, concerning particular Congregations) we beleeve our Brethren have no cauſe to Charge us with laying aſide to this day, the debate of the intire power of particular Congregations, which have a ſufficient Presbytery for all Church Cenſures.</p>
+            <p n="13">XIII. And thus having cleared our ſelves from the main Charge, and ſhewed that it was not declined to this day: We ſhall with eaſe acquit our ſelves of the other alſo, about <hi>denying it the firſt place;</hi> for neither is this juſtly charged upon us. Whether the debate of the power of particular Congregations, might juſtly challenge <hi>the firſt place (viz.</hi> Before the debates about the power of <hi>Claſſes</hi> and <hi>Synods)</hi> or not; yet we are ſure it hath had the <hi>firſt place in the debates of the Aſſembly.</hi> For all thoſe Votes and Reſolutions forementioned, concerning the power of particular Congrega<g ref="char:EOLhyphen"/>tions, were paſſed long before the power, either of <hi>Claſſes</hi> or <hi>Synods,</hi> was concluded or debated; ſo that neither was it <hi>declined to this day,</hi> nor was it <hi>denied the firſt place.</hi>
+            </p>
+            <p n="14">XIV. After all this, as a further evidence of their willingneſſe to diſpute their way, <q>they mention a Paper delivered in the Honorable Committee appointed by the Honourable Houſe of Commons, to finde out wayes of Accommodating different judgements in the Aſſembly.</q>
+            </p>
+            <p>Now, though it might ſufficiently clear the <hi>Aſſembly</hi> to Anſwer that no ſuch Papers were ever reported to the <hi>Aſſembly;</hi> and therefore the <hi>Aſſembly</hi> cannot be accountable for them; yet we further adde;</p>
+            <p n="1">1. That this Paper was not the Act of thoſe Brethren, nor of any party of them alone, but of four other Members of this Aſſembly joyned with two of them in a Sub-Com<g ref="char:EOLhyphen"/>mittee, as themſelves acknowledge.</p>
+            <p n="2">2. That this Paper in the utmoſt they can ſay of it, did but hold out the <hi>main</hi> and <hi>moſt</hi> of what they practically deſired; and how can a Paper which was the Act of o<g ref="char:EOLhyphen"/>thers as well as of themſelves, and contained but moſt of what they practically deſired, be a ſuffiient Proof and Evidence of their willingneſſe to make known what ever they held?</p>
+            <p n="3">
+               <pb n="17" facs="tcp:115982:9"/> 3. There were ſome nine Propoſitions prepared by the Sub-Committee, in all which they, did not agree; but the parties did in moſt of them counterlock one ano<g ref="char:EOLhyphen"/>ther. At the foot of theſe Propoſitions; as we are Informed by the Chair-man of that Committee, was written as followeth, <hi>We having weighed our Brethrens principles, do finde no probability of Accommodation for them ordinarily to enjoy Congregations: Unleſſe, when it ſhall happen in a Pariſh, that the Minister cannot Adminiſter the Sacraments to all in the Pariſh, whom poſſibly the Neighbour Miniſters, or the Claſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may judge fit to be admitted, ſuch perſons ſhall have power to procure to themſelves the Sacraments, either by the help of a Neighbour Miniſter, or ſome other proviſion he made by a proportionable allowance, out of the Tithes, according to the wiſdom of the ſtate.</hi>
+            </p>
+            <p>Whereunto our Brethren adde as followeth, <hi>Or otherwiſe, if in a Pariſh it happen there be a conſiderable number of ſuch as cannot partake in the Sacraments with the Miniſter and people, they ſhall have liberty to diſpoſe of themſelves, as a diſtinct Church, and to chooſe a Miniſter or Miniſters as their own charge to be maintained to be their Paſtor.</hi>
+            </p>
+            <p>
+               <hi>If ſuch a liberty ſhall ſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to the wiſdom of this Honourable Committee to be ſo prejudici<g ref="char:EOLhyphen"/>al to the peace of the Church, as not to be permitted, we humbly deſire the Doctrinal Principles wherein we differ about Church Government, be taken into ſerious conſideration, and ſome other way of Accommodation in practiſe be thought upon, as ſhall ſeem fit to this Honourable Committee.</hi>
+            </p>
+            <p>
+               <q>This ſay the Brethren was preſented to that Honourable Committee to be tranſ<g ref="char:EOLhyphen"/>mitted, whether to the Honourable Houſes, or to the Aſſembly, as they ſhould think meet: But before any ſuch thing could be done, it pleaſed the Honourable Houſe of Commons to ſuperſede the whole buſineſſe.</q>
+            </p>
+            <p n="15">XV. <q>They yet preſſe us farther with Papers, and tell us, How upon occaſion of ſomething brought in by one Brother and entertained, they took hold of that example; and one of them with conſent of the reſt brought in ſeven Propoſitions containing matter of difference betwixt us, profeſſing, that if this Reverend Aſſembly would debate them, or any one of them, they would bring in more, until they had brought in the whole frame; and the Aſſembly themſelves ſhould pick and chooſe what they would debate, and what not: Theſe Propoſitions ſay they, were rejected with a re<g ref="char:EOLhyphen"/>fuſal to debate any one of them.</q>
+            </p>
+            <p>The true ſtory of this buſineſſe ſtands thus, On <hi>March</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 1644. it was earneſtly deſired by ſeveral Members of the Aſſembly, that the <hi>Brethren, the diſſenters, might be intreated to be a Committee, to bring in what they thought further needful for the reforming of our Congregations, and what they would deſire in reference to their own,</hi> as hath been touched already. This was by thoſe of the <hi>Brethren diſſenters</hi> who were then preſent oppoſed with greateſt vigour: After ſome time ſpent in the debate of the buſineſſe, when the queſtion was drawn up <hi>in terminis,</hi> and ready to be put, perceiving the extreme averſe<g ref="char:EOLhyphen"/>neſſe which was in theſe Brethren to undertake ſuch a work we forbare putting the queſtion, l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt the Brethren ſhould complain, as they do in this Paper, of our <hi>impoſing upon them.</hi>
+            </p>
+            <p>What Councels the Brethren took we know not, but <hi>March</hi> following after an In<g ref="char:EOLhyphen"/>timation given in the Aſſembly by a Brother, who was none of theſe diſſenters, That one of theſe Brethren hid ſomething to offer about the <hi>rights of particular Congregations;</hi> and a motion made and aſſented to that he might bring it in: One of them after ſome Expreſſions of unwillingneſſe, drew forth a Paper containing <hi>ſeven Propoſitions,</hi> and this was the true occaſion of their bringing in theſe Propoſitions, and nor as they pre<g ref="char:EOLhyphen"/>tend <hi>their voluntary taking-hold of a Paper brought in by another Brother.</hi> The Propoſiti<g ref="char:EOLhyphen"/>ons (ſo far as our Notes and Records will help us) were as followeth.</p>
+            <list>
+               <item>1. <hi>That there is a platform of Church-Government for the Church, laid down in Scripture.</hi>
+               </item>
+               <pb n="18" facs="tcp:115982:10"/>
+               <item> 2. <hi>That this is immutable, and binding the conſcience to the obſervation thereof.</hi>
+               </item>
+               <item>3. <hi>That the Officers which are to be imployed in thoſe Churches, as Paſtors, Teachers, Ruling Elders, and Deacons, are of divine Inſtitution.</hi>
+               </item>
+               <item>4. <hi>That the people have an Intereſt in the choice of theſe Officers.</hi>
+               </item>
+               <item>5. <hi>That theſe Officers are to be deſigned each of them to their Functions, by impoſition of hands, and by Prayer.</hi>
+               </item>
+               <item>6. <hi>That what power theſe ſhould have, and over whom they ſhould have it, is of divine Inſtitution.</hi>
+               </item>
+               <item>7. <hi>Where there is a ſufficient number of Presbyters in any one Congregation, then may the two great Ordinances of Excommunication and Ordination be Adminiſtred.</hi>
+               </item>
+            </list>
+            <p>Theſe Propoſitions we conceive were brought in by the <hi>conſent of all theſe Brethren,</hi> becauſe now they ſay ſo, which is more then themſelves affirm of any of their other Papers, unleſſe the firſt which was given in about Ordination; yet themſelves in the debate of them, did not agree upon ſome of the termes, nor will they we ſuppoſe ſay That all theſe Propoſitions contain matter of difference betwixt us.</p>
+            <p>But as to the laying of theſe Propoſitions aſide, we Anſwer.</p>
+            <p n="1">1. Theſe Propoſitions were not to the purpoſe of what was then before the Aſſem<g ref="char:EOLhyphen"/>bly, nor what was deſired, and expected from us, <hi>viz. What they thought further needful in the Reformation of our Congregations; and what they deſired in reference to their own.</hi> All or moſt of what theſe Propoſitions contain, having been before debated in the Aſſembly.</p>
+            <p n="2">2. They were not tendred as already formed up for diſpute, but it was added by him that brought them in, <hi>Theſe Propoſitions we are ready to form up, if the Aſſembly think fit.</hi>
+            </p>
+            <p n="3">3. It was then particularly objected, that they had not brought them in with Scrip<g ref="char:EOLhyphen"/>tures and Proofs annexed, as had been formerly uſed in Committees, and offer made ſeveral times, that if they would bring them in with proofs annexed, the Aſſembly was ready to receive them.</p>
+            <p n="4">4. Neither indeed can they be ſaid properly to be brought into the Aſſembly; for when the Reporter had read them, he put them up again without leaving either the original, or a Copy of them in the Aſſembly, and refuſed to give them in, though cal<g ref="char:EOLhyphen"/>led for by divers; as likewiſe another time, another of theſe Brethren, having delivered a Paper to a Committee of the Aſſembly for Accommodation, deſired afterwards, that he might have it to peruſe and tranſcribe it; which being obtained, we could never re<g ref="char:EOLhyphen"/>cover from him to this day, either the Paper, or a Copy of it; and when it hath been called for in the Aſſembly (as it hath been very often) he ſtill replyed, that he had it not about him, onely once he drew it out, and read it over in the Aſſembly, with ſpeed more then enough, and being deſired then to deliver it in, he refuſed then to deliver it in to the Aſſembly, but ſaid, if he muſt deliver it again, he would deliver it to the Chair-man of that Committee from whence he had it; who not being then preſent, did not then or ſince receive it from him; though a Paper much called for, and deſired, and often demanded by that Chair-man.</p>
+            <p>All this while the Brethren have been complaining about Papers they brought in to the Aſſembly: But all this is but to ſhape an excuſe for their not bringing in Papers as was expected, <hi>viz. Their Frame or Model of Church-Government,</hi> according to the deſire and order of the Aſſembly.</p>
+            <p n="16">XVI. <q>The occaſion of which Order was indeed, as they ſay, A Book intituled <hi>The Way of the Churches of Chriſt in New England,</hi> and publiſhed here by <hi>N. H.</hi> and <hi>J. H.</hi> who in their Epiſtle to the Reader ſay, they have been informed that theſe their Brethren (ſpeaking of the diſſenting Brethren in this Aſſembly) formerly tendred themſelves, that in eaſe they might be put into a Committee or like meet
+<pb n="19" facs="tcp:115982:10"/> poſture, they would bring in the whole Frame of their judgements in a body, with their Grounds and Reaſons, That now very lately they gave in Propoſitions to be diſcauſed with promiſe of more; but neither of them was debated.</q>
+            </p>
+            <p>
+               <hi>This Book ſay the Brethren they had no band in, no knowledge of;</hi> but they do not ſay they had no hand in giving Information, to the Prefacers to this Book: So they ſay they had no hand in publiſhing the Papers called <hi>A Copy of their Remonſtrance.</hi> But they will not (we hope) ſay, that none of them had a hand in ſhewing or communicating the written Copy or a Tranſcript thereof, either before or ſince it came into the Aſſembly.</p>
+            <p>The Aſſembly finding themſelves neerly touched by that miſ-repreſentation which theſe men had made of their proceedings to the world, and knowing that they had often deſired (and almoſt enjoyned) the Brethren to be a Committee to that purpoſe; but not remembring that the Brethren had tendred themſelves unto ſuch a capacity, took the thing into a ſtrict inquiry; and the moſt that could be alleaged particularly of that nature for our Brethren, was but this, That upon <hi>February</hi> 11. 1644. one of them made an offer of being made a Committee, which upon review of that dayes proceed<g ref="char:EOLhyphen"/>ings, we finde to be thus: Vpon a motion of another Brother in the Aſſembly, that they would uſe this Argument againſt the Propoſitions in debate (concerning the law<g ref="char:EOLhyphen"/>fulneſſe of Appeals) <hi>That if every Congregation ought to have all and ſole power Independ<g ref="char:EOLhyphen"/>ently, and that their ſentence cannot be reſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nded by any other power, then there can be no appeal to another Court,</hi> deſiring that they would prove ſuch irrevocable power in Congregati<g ref="char:EOLhyphen"/>ons, or if they did not like the torms of the Propoſitions, they would be a Committee, and bring in Propoſitions to their own ſence; one of the Brethren replied, <hi>With all his heart, becauſe it was ſaid they were ſtill upon the Negative,</hi> and <hi>that it was ſaid abroad, they did not hold forth their minde, they would bring in Propoſitions (if the Aſſembly pleaſed) to be desputed, which preſently was well reſented in the Aſſembly;</hi> many of them expreſſing their approbation of the motion, and that they were very glad to hear it, being that which they moſt deſired, and nothing would pleaſe them more, then that theſe Bre<g ref="char:EOLhyphen"/>thren would clearly hold out their judgements; and the Aſſembly in the midſt of the other debate, were going about to make them a Committee, to bring in what Propo<g ref="char:EOLhyphen"/>ſitions they pleaſed, according to the Ordinance of Parliament. And when in the Aſſembly it was called to Order it, many having approved the motion, and none ſpeak<g ref="char:EOLhyphen"/>ing againſt it, the Brother who had before profeſſed his willingneſſe began to object, <hi>That they muſt know firſt for what they ſhould be a Committee,</hi> and <hi>what was meant by ac<g ref="char:EOLhyphen"/>cording to the Ordinance of Parliament;</hi> and that the <hi>Aſſembly muſt first move the Parlia<g ref="char:EOLhyphen"/>ment about it, and then they ſhould ſee what they theſe Brethren would do.</hi> And another of theſe Brethren moved expreſly againſt it upon the ſame grounds, that are now objected: <hi>That there were many things already concluded; that it was to no purpoſe to make ſuch an overture; that they could not bring in what was their judgements, without contradicting what was already Voted:</hi> Whereupon the offer being made but by one of theſe Brethren, though indeed, as they uſe to do, he uſed the word <hi>We</hi> (and not ſeconded by any of the reſt, though there were divers of them preſent) but <hi>flatly oppoſed by one of them,</hi> and <hi>even by himſelf, clogged, notwithſtanding the Profeſſion of his willingneſſe.</hi> The Aſſembly deſiſted and returned to their former debate, about the Propoſition before them, which is the <hi>true Reaſon</hi> why the motion ſo well reſented in the Aſſembly, did not proceed.</p>
+            <p>The Aſſembly therefore for Vindication of themſelves from this aſperſion, did up<g ref="char:EOLhyphen"/>on the fourth of <hi>April,</hi> notwithſtanding much oppoſition of theſe Brethren unanimouſly <hi>Reſolve upon the Queſtion, That the Brethren of this Aſſembly that had formerly entred their diſſent to the Propoſitions about Presbyterial Government, ſhall be a Committee to bring in the whole Frame of their judgement, concerning Church-Government in a Body, with their</hi>
+               <pb n="20" facs="tcp:115982:11"/> 
+               <hi>Grounds and Reaſons:</hi> In the laſt part of which Order, we thought fit to retai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the words of the Prefacers, though ſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rce ſence.</p>
+            <p n="17">XVII. <q>To this Order they pretend they yeelded with willingneſſe, provided, they might bring it in part by port.</q>
+            </p>
+            <p>With what willingneſſe, their debate againſt this Order, proſſed with vehemency the firſt day, and repeated again the ſecond day, bear witneſſe, wherein all thoſe diſadvan<g ref="char:EOLhyphen"/>tages wherewith this Paper clogs the buſineſſe, were urged and anſwered; as namely, <hi>The main part of the Presbyterial Government</hi> (as namely, <hi>that about Ordination, and Go<g ref="char:EOLhyphen"/>vernment of Presbyters over many Congregations, and the Subord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nation of Claſſical, Pro<g ref="char:EOLhyphen"/>vincial and National Aſſemblies) had been voted by the Aſſembly, and ſent up to the Honour<g ref="char:EOLhyphen"/>able Houſes.</hi> And ſo they were before the 11 of <hi>Feb.</hi> (which yet was the time, and the onely time, ſo far as we can remember) that any of theſe Brethren made any overture to this Aſſembly, of bringing in a Model of their Way. And if the voting of theſe things were not looked upon as advantages; then why are they pleaded as diſadvantages, to have undertaken it on the 11 of <hi>February?</hi> Why were they ſo averſe from it on the 21 of <hi>March,</hi> and on the fourth and fifth of <hi>April?</hi> They cannot but remember (yea, they do remember it was ſaid, <hi>That ſomething of Church-Government remained undiſ<g ref="char:EOLhyphen"/>cuſſed;</hi> but was that all?) It was ſaid, and by ſeveral Brethren make evident, that what the Aſſembly had voted and tranſmitted to the Honourable Houſes, had not ſo precluded them, but they had ſcope enough ſtill to bring in whatſoever they could aſſert, and prove, about the power of particular Congregations; and there was ſcarce any thing voted to the prejudice of the preſumed or ſuppoſed Rights of particular Con<g ref="char:EOLhyphen"/>gregations, ſave onely in the matter of Appeals. For what ever had been voted law<g ref="char:EOLhyphen"/>ful for Claſſes and Synods to do, did not thereby exclude Congregations from having ſuch a power likewiſe, if they could prove that by the Inſtitution of Chriſt, ſuch a power belongs to them; beſides, many other things which theſe Brethren ſuppoſe to be the <hi>Rights of particular Congregations, and that Chriſt hath inveſted them therewith,</hi> which the Aſſembly had not determined againſt; and the queſtion about <hi>Excommuni<g ref="char:EOLhyphen"/>cation</hi> (at leaſt if the Aſſembly have as they charge us, <hi>declined to this day the intire power of Cenſures in Congregations) about election of Officers, and the peoples power therein,</hi> as likewiſe, <hi>the ſufficiency of election to conſtitute Officers without Ordination,</hi> about the <hi>Conſtitutions of Congregations, and the way of gathering and conſtituting of Churches, their Church Covenant, and the qualifications of thoſe that are to be Church Members, and what it is doth conſtitute a man a Member of a viſible Church.</hi> Theſe and many other particu<g ref="char:EOLhyphen"/>lars, were yet <hi>Res integrae,</hi> as was then declared. And it was further declared, that even in thoſe things which the Aſſembly had Voted and Tranſmitted to <hi>both Houſes of Par<g ref="char:EOLhyphen"/>liament;</hi> yet we did not ſo lean to our own underſtandings, nor ſo prize our Votes; but that if theſe Brethren ſhould hold forth ſuch light unto us as might convince us of an Errour: we ſhould not onely deſire the Parliament to give us leave to reviſe our Votes, but to revoke them if there ſhould becauſe. And when it was moved by ſome in the Aſſembly to adde a proviſo, that they being not in any thing which hath been al<g ref="char:EOLhyphen"/>ready determined in the Aſſembly, it was gain ſaid by others, moving that there might be no ſuch reſtriction, but that they be left to bring in what they would, ſo that they brought it in with their Grounds and Reaſons, and accordingly the queſtion<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drawn up <hi>March</hi> 21, and the Reſolved <hi>April</hi> 4, were without any ſuch reſtriction. But this <hi>reaſonable ſatisfaction was not,</hi> (we ſuppoſe) <hi>the ground why they yeelded to be a Committee:</hi> That which over-ruled the caſe was, <hi>That they might take away all jealouſies, that they were unwilling to diſcover what they held;</hi> which whether they can do, or no, by the carriage of this buſineſſe, time will give them to underſtand.</p>
+            <p n="18">XVIII. <q>Well, however purpoſed they were, and Reſolved among themſelves
+<pb n="21" facs="tcp:115982:11"/> to do this work, but to do it in as convenient a time as a work of ſuch a compaſſe could in ſuch a manner a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was purpoſed by us, be diſpatched by them.</q>
+            </p>
+            <p>It ſeems then the manner purpoſed by us, that they ſhould bring in the <hi>Model intire,</hi> and not <hi>part</hi> by <hi>part,</hi> was it that troubled them. Indeed, it was contended for with ſome earneſtneſſe, <hi>That they might bring it in part by part, as the Presbyterian Government was brought into the Aſſembly.</hi> And one of the Brethren was ſo earneſt in this conteſt, as that he did <hi>profeſſedly diſclaim having any hand in it, unleſſe it might be brought in part by part.</hi> For our parts, we counted it our unhappineſſe, and found it to be greatly to our prejudice that we were neceſſitated to bring in the Presbyterial Government part by part; but our Brethren know it could not be avoided; for the Aſſembly being by the <hi>Ordinance, whereby they ſit bound to treat onely of ſuch matters as ſhall from time to time be propounded to them by both or either of the Houſes of Parliament, and no others,</hi> could not appoint Committees to conſult and make preparations for matters of Church-Government, till they had received an Order from the Honourable Houſe to that pur<g ref="char:EOLhyphen"/>poſe. And having received this Order, they ſtood obliged now to lay by the <hi>Articles of Religion,</hi> in the review whereof, they had hitherto ſpent their time, and to fall upon the conſideration of Church-Government, which being now by Ordinance of Parliament put into the hands of the Aſſembly, and made the ſubject of our debates, the Com<g ref="char:EOLhyphen"/>mittees could not have time to perfect the whole platform, but muſt bring it in by parts as they could diſpatch them, leaſt the Aſſembly ſhould have no work at all be<g ref="char:EOLhyphen"/>fore them; but if the Aſſembly had thought fit to have choſen ſeven men, and made them a Committee to bring in a Platform or Model of Government, according to their own judgements without reſpect to the judgement of other Bretheren; and left them to their own time as theſe Brethren were left, and priviledged them from other ſervices and attendance in the Aſſembly and Committees, as ſome of theſe Brethren have taken themſelves to be, we doubt not through the Grace of God, but they would have brought in a Model of Government perfect and intire, in fewer moneths then we have waited for theirs.</p>
+            <p>As for the Aſſemblies bringing in of the Government <hi>per partes</hi> was by conſtraint; but our brethren made it a matter of choice and conteſt; what the deſigne of this ſhould be we know not, unleſſe to gain time and conceal themſelves ſtill, and detain us yet lon<g ref="char:EOLhyphen"/>ger in expectation and ſuſpence; they having the more opportunity thereby to expreſſe themſelves in what they pleaſe, and in what they pleaſe to be ſtill reſerved.</p>
+            <p n="19">XIX. <q>It likewiſe ſeems to greive them, that the Aſſembly (though preſſed by them) would not declare what they would do with that Model, and thoſe Reaſons they ſhould bring.</q>
+            </p>
+            <p>But let the Brethren conſider, whether they did then poſitively and expreſly declare, Whether they would bring in ſuch a Model, though preſſed to it by the Aſſembly; and if they would not declare the one, why ſhould the Aſſembly declare the other? And the Brethren know it is not the cuſtome of the Aſſembly, to tell Committees before<g ref="char:EOLhyphen"/>hand what they will do with their Report when they bring it in; but when a Report is brought in, then they conſider what to do with it, when they ſee what it is.</p>
+            <p>Moreover, the Brethren need not doubt, but the Aſſembly would at leaſt have made as much uſe of this, as they were by one of theſe Brethren adviſed to make of the Paper of this nature, given in by the Commiſſioners of <hi>Scotland.</hi>
+            </p>
+            <p n="20">XX. <q>But the Aſſembly (ſay they) haſtened the voting of what yet remained in Church Government; and when not long after upon occaſion of debate of one par<g ref="char:EOLhyphen"/>ticular point wherein they differed from the Aſſembly, they moved it might be dè<g ref="char:EOLhyphen"/>ferred, becauſe they ſhould preſent their Iudgements, and Reaſons about it, with the reſt.</q> It was publikely anſwered, that therefore the Aſſembly ſhould the rather go on
+<pb n="22" facs="tcp:115982:12"/> to the concluding of it, becauſe they intended to bring it in; and accordingly the Aſſembly ſent up to the Honourable Houſes, as well what had been ſent up by pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> before, as what was ſince concluded in one intire Frame.</p>
+            <p>For the haſtning of the Votes, and the ſending up our advice for Government in an intire Frame: The Brethren know the Reaſon of it, but they are pleaſed to conceal it. The Honourable Houſes had ſent ſeveral Meſſages and Orders to this Aſſembly, re<g ref="char:EOLhyphen"/>quiring them to haſten the diſpatch of their advice concerning Church-Government, and to ſend it up intire: Which Meſſages and Orders of the Houſes, we are bound to obey, by that Ordinance whereby we ſit; and it is not free for us to detain our Votes, when both or either of the Houſes call for them. Our Brethren therefore deal hardly with us, when they <hi>impute</hi> that to us as a <hi>fault,</hi> which was our <hi>duty.</hi>
+            </p>
+            <p>
+               <hi>As for the particular which they ſay they deſired might be deſerred:</hi> We know not what it was they mean, nor when debated; if they had inſtanced in the particular, we could more clearly have Anſwered to the Charge. But if there were ſuch a motion made by them, and if any Brother ſhould Anſwer, that their Model being to come in, and like to hold the Aſſembly in long debate, we ſhould therefore make the more haſte to diſ<g ref="char:EOLhyphen"/>patch what was before us, that ſo we might be the more ready to receive what they ſhould give in (though the Aſſembly be not bound to give an account of the particular Speeches of every Member) yet we conceive there might be ſome Reaſon why a man might ſo ſpeak, eſpecially conſidering that they were not limited, but left to their own time for bringing in their Model; for there was no day ſet from the fourth of <hi>April,</hi> when they were firſt made a Committee, till <hi>September</hi> 22, and then onely, <hi>That about a fortnight after they ſhould make a Report of what they bad done;</hi> nor had they all this time declared, that they would bring in a Model: But it ſeems they were reſolved to take time large enough, for they tell us</p>
+            <p n="21">XXI. <q>That the Collection of materials coſt them two or three moneths.</q>
+            </p>
+            <p>Strange! Have the Brethren decryed the Government of all other Churches, theſe many yeers, and ingaged themſelves in a new way of <hi>Church-gathering,</hi> and <hi>governing;</hi> And when they are called upon for the proof of that way, their materials are to ſeek have they told the world in their <hi>Apologetical Narration, That they have ſearched out what were the firſt Apoſtolike directions, patern, and example of thoſe primitive Churches Recor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed in the New Teſtament:</hi> And in this <hi>inquiry looked upon the Word of Chriſt impartially, and imprejudicedly, as men made of fleſh and blood, are like to do in any juncture of time, that may fall out?</hi> Do they ſpend almoſt three whole Pages of the <hi>Apology,</hi> in ſetting out the <hi>advantages they had in their inquiry above all other that were before either in this or other Re<g ref="char:EOLhyphen"/>formed Churches,</hi> yea, <hi>or in</hi> New England? Do they profeſse Page 9, 10. <hi>That in the primitive patern, and example of the Churches erected by the Apoſtles, they found principles enough, not onely Fundamental and Eſſential to the being of a Church; but ſuperſtructory alſo for the welbeing of it; and theſe to them clear and certain, &amp;c.</hi> And are their materials ſtill to collect, and muſt no leſse then two or three moneths be ſpent in the Collection of them? But grant it ſo, they have had not onely <hi>two, but ſix moneths time,</hi> for the pre<g ref="char:EOLhyphen"/>paring of their Model; Why is it not yet brought in?</p>
+            <p n="22">XXII. <q>They Anſwer, the Aſsembly hath ten moneths ſince received this Diſsent and Reaſons againſt the Subordination of Synods, which contains a main part of that wherein they differ, and is of all other, of the greateſt moment both to this Church and State; yet notwithſtanding, theſe Reaſons have not been Anſwer<g ref="char:EOLhyphen"/>ed by any Reply brought into this Aſsembly, and ſo not ready to be ſent up to the Honourable Houſes; although the Votes concerning Subordination were ſent up, by which, we ſee ſay they, that this Aſsembly can aſsume the liberty, if it ſo pleaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, to reſerve thoſe we ſhall preſent unanſwered, as they have done the former.</q>
+            </p>
+            <pb n="23" facs="tcp:115982:12"/>
+            <p> We grant, that about ten moneths ſince, <hi>Theſe Brethren brought in a Paper containing Reaſons of their Diſſent, against the Subordination of Synods,</hi> which we preſently commit<g ref="char:EOLhyphen"/>ted to the ſame Committee that had drawn up the Anſwer to the former Reaſons.</p>
+            <p>We grant, that as long ſince our Votes concerning Subordination were ſent up to the Houſes, for theſe Votes having been paſsed in the Aſsembly long before, and no Diſ<g ref="char:EOLhyphen"/>ſent to them entred; when upon occaſion of the Treaty at <hi>Uxbridge,</hi> which though it was not then begun, was in preparation; it pleaſed the Parliament to require us to ſend up to them, what had paſsed the Aſſembly in Church-Government; and the Aſſembly thereupon, appointed a Committee to draw up the whole, which had paſſed in the Aſſembly into a method fit to be preſented to the Parliament; and the Report of the Committee conſidered by the Aſſembly; and the whole, Voted to be ſent up to both Houſes. <hi>Our Brethren then entred their Diſſents to ſome particular Propoſitions of it, and deſired that the ſending up of the whole might be respited till they had brought in the Reaſons of that their Diſſent;</hi> which becauſe the Aſſembly could not aſſent unto, becauſe of the Order of Parliament, calling for them in reference to their preparation to the Treaty; Theſe Votes, together with the reſt, were ſent up to the Parliament before the Reaſons of their Diſsent were brought into the Aſsembly; and the <hi>Subordination of Synods ſoon after Voted in both Houſes of Parliament,</hi> and ſent afterwards among other Propoſitions, to the Treaty at <hi>Uxbridge,</hi> which made us not over ſolicitous of diſpatching our An<g ref="char:EOLhyphen"/>ſwer to their Reaſons in all the Formalities, becauſe <hi>theſe Reaſons and Anſwers are not to be ſent up till called for by the Parliament:</hi> And we conceived it not very probable, that the Houſes would call for Reaſons againſt their own Votes; yet thirdly, the Committee had prepared their Anſwer to theſe Reaſons in leſſe time then the Brethren ſay they were put to the expence of Collecting of the materials for their way; for in <hi>Janu.</hi> laſt, about twelve Sheets of an Anſwer to theſe Reaſons againſt the Subordination of Sy<g ref="char:EOLhyphen"/>nods, were read and approved in a Grand Committee of the whole Aſsembly (theſe Diſsenters onely excepted) and wanted but the formality of the Aſsemblies Vote; and ſince another part of our Anſwer to their Reaſons of Diſsent, to another Propoſi<g ref="char:EOLhyphen"/>tion, were read and approved in the Aſsembly. Our Brethren therefore need not to have vaunted themſelves, as if their <hi>Papers were ſuch as the Aſſembly could not, or would not grapple with, but can aſſume liberty if they pleaſe, to reſerve unanſwered.</hi>
+            </p>
+            <p>What remains of this Paper, rather reflects upon the Parliament, then upon us.</p>
+            <p n="23">XXIII. <q>If what they would now bring in, ſhould be undertaken to be anſwered by the Aſſembly: yet they are ſenſible of ſo much remedileſſe prejudice, by being bound from replying again, as makes them juſtly wary.</q>
+            </p>
+            <p>And ſurely if what they ſhould now give in, be in their own power (as after<g ref="char:EOLhyphen"/>wards they ſay it is; <hi>Although our former Reaſons given in former Diſputes to both Houſes, <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>rding to their Ordinance were therefore not our own, but to be diſpoſed of by their appoinment: yet what we might now give in, we conceive to be in our own power.)</hi>
+            </p>
+            <p>If this can be made good, that it is in their own power, <hi>viz. In their power to Reply,</hi> then is their fear of being prejudiced by being bound up from replying, but pretended: But if there be indeed any ſuch Reſtraint, it is from <hi>the Honourable Houſes, not from us:</hi> whoſe Wiſdom and Piety we doubt not will provide, that controverſies ſhall not be lengthened to eternity, whatſoever ſome have threatned; nor doth it ſtand with rea<g ref="char:EOLhyphen"/>ſon and equity, that they who are firſt heard in their own cauſe, ſhould ſpeak laſt al<g ref="char:EOLhyphen"/>ſo. <hi>If by being in their own power,</hi> they mean in their <hi>own power to divulge or to publiſh</hi> as it ſeems by the publiſhing of what they now gave in that they thought ſo indeed: But to this we Anſwer, that there is no greater obligation on them in this kinde, then is on the whole Aſſembly, and they have no Reaſon to complain of that to us.</p>
+            <p n="24">XXIV. <q>For a concluſion, the Brethren ſay they think the Aſſembly hath no
+<pb n="24" facs="tcp:115982:13"/> cauſe to require a report now of them; nor will that report be of uſe, becauſe re<g ref="char:EOLhyphen"/>ports are for debates, and bebates for reſults, to be ſent up to the Honourable Houſes, who have already voted another Form of Government then what they ſhall p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſent.</q>
+            </p>
+            <p>To which we Anſwer, the Aſſembly hath ſtill great and juſt cauſe to expect a re<g ref="char:EOLhyphen"/>port from theſe Brethren: Thoſe of their way having publiſhed in Print <hi>that theſe Bre<g ref="char:EOLhyphen"/>thren are willing to do it.</hi> The Aſſembly having Ordered it, the Brethren having held the Aſſembly ſix moneths in expectation of it. Some of them pleading this very <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ployment, as an excuſe of there abſence from the Aſſembly, it having been reported in City and Country, that the Model was finiſhed, there being no juſt and ſatisfa<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ry reaſon preſented in thoſe Papers, why they ſhould not yet do it; but only pre<g ref="char:EOLhyphen"/>tences, ſubterfugies, imperfect and unjuſt Relations of the proceedings of the Aſſembly, and other ſpecious diverſions. But whereas they ſay, <hi>that ſuch a Model would be of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> uſe now,</hi> we Anſwer yes, of much uſe in this great buſineſſe of Accommodation, which i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath pleaſed the Honorable Houſes again to put us upon. Vpon which conſideratio<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we think (not <hi>That the Brethren have no cauſe to decline the bringing in their Model <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> this time,</hi> but that they have ſome other cauſe then what they pretend to, and th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſomething lies behinde the curtain, which doth not yet appear: poſſibly not any one of them is yet at a <hi>point in his own judgement,</hi> nor reſolved where to fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; they having profeſsed to <hi>keep as a reſerve, liberty to alter and retract,</hi> which if their Model were given in, they could not ſo fairly, and honourably do: Or poſſibly they are not <hi>all fixed in <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and the ſame point;</hi> Poſſibly they cannot <hi>agree among themſelves</hi> (for it is eaſier to agree in diſsenting, then in affirming) or poſſibly if they ſeven can agree, yet ſome other of their Brethren in the City, to whom it may be the Model was communicated, did <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> like it; or if ſo, yet poſſibly the Brethren might foreſee, that if this Model ſhould be publiſhed, there are ſome who at preſent are a ſtrength to them, and expect ſhelter fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, may diſguſt it; or at leaſt they are reſolved to waite a further opportunity, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> improve what they have prepared; it may be when the <hi>Aſſembly is diſſolved,</hi> and ſo <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in a capacity to Anſwer them, or when the <hi>Presbyterian Government begins to be ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p;</hi> when they promiſe to themſelves there will be diſcontent among the people; and lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t upon that, it may be, as the moſt advantageous time of putting Pen to Paper. But what<g ref="char:EOLhyphen"/>ſoever the cauſe be, we <hi>commit our cauſe to the Lord, who loves truth and ſimplicity, and</hi> will we doubt not diſcover it in due time.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Cornelius Burges,</hi> Prolocutor pro tempore.</item>
+                     <item>
+                        <hi>Adoniram Byfield,</hi> Scriba.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
